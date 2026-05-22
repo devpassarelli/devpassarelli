@@ -1,15 +1,15 @@
-# Hi, I'm Gabriel Passarelli
+# Gabriel Passarelli
 **`Software Engineering Student | Frontend Developer | Aspiring Full Stack`**
 
 ---
 
-### About Me
+### Sobre Mim
 
-I'm a Software Engineering student focused on building real-world applications that solve real problems. I work with **React**, **JavaScript**, and **TypeScript** on the frontend, and I'm expanding into backend development to become a Full Stack developer.
+Sou estudante de Engenharia de Software focado em construir aplicações reais que resolvem problemas de verdade. Trabalho com React, JavaScript e TypeScript no frontend, e estou expandindo para o backend rumo ao Full Stack.
+Já desenvolvi sistemas em produção para empresas e instituições de saúde, incluindo um app de monitoramento clínico usado por médicos no Instituto Dr. Leonardo Passarelli, e dashboards operacionais com Power BI e automações em Excel para uma distribuidora AMBEV.
+Acredito que a melhor forma de aprender é construindo.
 
-I've built production systems for companies and healthcare institutions, including a **clinical patient monitoring app** used by doctors at Instituto Dr. Leonardo Passarelli, and **operational dashboards** with Power BI and automated Excel workflows for an AMBEV distributor.
-
-I believe the best way to learn is by building.
+Entusiasta de Inteligência Artificial e defensor do uso de IA como ferramenta para acelerar o desenvolvimento de software e construir soluções melhores.
 
 ---
 
@@ -30,17 +30,16 @@ I believe the best way to learn is by building.
 
   ---
 
-### Featured Projects
+### Projetos em Destaque
 
-| Project | Description | Stack |
+| Projeto | Descrição | Stack |
 |---|---|---|
-| **Passarelli App** | Clinical monitoring mobile app for patient daily tracking, doctor dashboards, and engagement analytics | React Native, Expo, TypeScript, Supabase |
-| **ABS Management System** | Operational web platform for an AMBEV distributor covering HR audits, fleet management, KPIs, and commercial tracking | React, Python/Flask, Supabase, Power BI |
+| **Passarelli App** | App mobile de monitoramento clínico para acompanhamento diário de pacientes, dashboards médicos e análise de engajamento | React Native, Expo, TypeScript, Supabase |
 
 ---
 
 
-### Connect with me
+### Fale comigo!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-passarelli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
