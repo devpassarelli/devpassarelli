@@ -30,14 +30,6 @@ Entusiasta de Inteligência Artificial e defensor do uso de IA como ferramenta p
 
   ---
 
-### Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **Passarelli App** | App mobile de monitoramento clínico para acompanhamento diário de pacientes, dashboards médicos e análise de engajamento | React Native, Expo, TypeScript, Supabase |
-
----
-
 
 ### Fale comigo!
 
